@@ -1,3 +1,6 @@
+> [!NOTE]
+> This is a backup of https://github.com/jeromedalbert/sublime-text-railscasttextmate-theme at commit 0a4861f35e72f9ad4cc1cac42730ea563be2ffd3, as retrieved from my nix store at `/nix/store/rwd9wwh96ba99pb5s862igv87hn3xxbs-source`
+
 # RailsCast+Textmate theme for Sublime Text
 
 <img src="http://i.imgur.com/DT1tq0x.png" border="0">
